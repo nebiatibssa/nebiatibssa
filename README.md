@@ -1,4 +1,11 @@
-### Hi there 👋
+![alt text](banner.svg)
+
+### Hi there, i'm Nebiat 👋
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=snebiat.snebiat)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snebiat&layout=compact)
+
 
 <!--
 **nebiatibssa/nebiatibssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
